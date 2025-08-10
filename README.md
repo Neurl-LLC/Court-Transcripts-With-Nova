@@ -1,4 +1,4 @@
-#🎙️ Generating Court Transcripts with Deepgram
+# 🎙️ Generating Court Transcripts with Deepgram
 
 This repository contains the companion code for the article [**Generating Court Transcriptions with Deepgram**](https://neurlcreators.substack.com/p/generating-court-transcriptions-with) on [**The Neural Blueprint**](https://neurlcreators.substack.com/).
 It demonstrates how to use **Deepgram’s Nova-3** model to produce transcripts enriched with **speaker diarization** and **timestamps**, essential features for legal and courtroom applications.
